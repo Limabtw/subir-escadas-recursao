@@ -32,6 +32,7 @@ Entrada
 Saída
 
 Número de maneiras de subir: 5
+
   Objetivo
 
 Praticar os conceitos de recursão por meio da implementação de uma solução 
